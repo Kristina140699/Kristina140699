@@ -1,3 +1,5 @@
+![logo](https://github.com/Kristina140699/Kristina140699/blob/main/pxfuel.jpg)
+
 <h1 align="center">Hello 👋, it's Kristina Barooah</h1>
 <h3 align="center">A budding software developer from India</h3>
 
