@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, it's Kristina Barooah</h1>
 <h3 align="center">A budding software developer from India</h3>
 
-<img align='center' alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" />
+<img align='right' alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kristina140699&label=Profile%20views&color=0e75b6&style=flat" alt="kristina140699" /> </p>
 
