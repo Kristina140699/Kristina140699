@@ -1,7 +1,7 @@
 ![logo](https://github.com/Kristina140699/Kristina140699/blob/main/pxfuel.jpg)
 
 <h1 align="center">Hello👋, it's Kristina Barooah</h1>
-<h3 align="center">A budding software developer from India</h3>
+<h3 align="center">A budding Software Developer and Data Analyst from India</h3>
 
 <img align='right' alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" />
 
